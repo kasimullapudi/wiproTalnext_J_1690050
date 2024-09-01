@@ -1,6 +1,6 @@
 package mettl2A;
 import java.util.*;
-//13m
+//13ma
 public class GetCodeThroughStrings {
 
 	public int getCodeThroughStrings(String input1) {
